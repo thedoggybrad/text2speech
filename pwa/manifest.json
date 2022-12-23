@@ -1,11 +1,11 @@
 {
   "name": "text2speech",
   "short_name": "text2speech",
-  "description": "Type and hear it",
+  "description": "Type and hear it.",
   "icons": [
     {
       "src": "https://thedoggybrad.github.io/text2speech/img.png",
-      "sizes": "419x477",
+      "sizes": "512x512",
       "type": "image/png"
         },
     {
