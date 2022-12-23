@@ -4,6 +4,7 @@ const CACHE_NAME = 'text2speech';
 // The files we want to cache
 const resourceList = [
   '/',
+
   'https://thedoggybrad.github.io/text2speech/index.html',
   'https://thedoggybrad.github.io/text2speech/img.png',
   'https://thedoggybrad.github.io/text2speech/script.js',
