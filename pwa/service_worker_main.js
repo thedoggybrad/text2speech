@@ -8,7 +8,10 @@ const resourceList = [
   'https://thedoggybrad.github.io/text2speech/img.png',
   'https://thedoggybrad.github.io/text2speech/script.js',
   'https://thedoggybrad.github.io/text2speech/wave.gif',
-  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'
+  'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',
+  'https://code.jquery.com/jquery-3.3.1.slim.min.js',
+  'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js'
+
 ];
 
 self.addEventListener('install', event => {
