@@ -163,6 +163,21 @@ pitch.addEventListener('change', e => (pitchValue.textContent = pitch.value));
 // Voice select change
 voiceSelect.addEventListener('change', e => speak());
 </script>
+
+<style>
+* {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+</style>
+
+<script>
+window.addEventListener("contextmenu", e => e.preventDefault());
+</script>
+
 </body>
 
 </html>
