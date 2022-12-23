@@ -1,0 +1,19 @@
+{
+  "name": "text2speech",
+  "short_name": "text2speech",
+  "description": "Type and hear it",
+  "icons": [
+    {
+      "src": "https://thedoggybrad.github.io/text2speech/img.png",
+      "sizes": "419x477",
+      "type": "image/png"
+    },
+    {
+    }
+  ],
+  "start_url": "https://thedoggybrad.github.io/text2speech/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}
